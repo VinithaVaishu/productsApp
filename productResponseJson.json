@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "name": "Hair shampoo",
+    "price": 500,
+    "manufacturer": "mamaearth",
+    "description": "Hair conditioner to smoothen and condition the hair",
+    "noOfOrders": 0,
+    "availability": "Avaialable"
+}

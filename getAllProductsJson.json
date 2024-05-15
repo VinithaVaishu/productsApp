@@ -1,0 +1,43 @@
+{
+    "no_of_records": 4,
+    "total_no_of_records": 4,
+    "more_data": "No",
+    "products": [
+        {
+            "id": 1,
+            "name": "Hair shampoo",
+            "price": 500,
+            "manufacturer": "mamaearth",
+            "description": "Hair conditioner to smoothen and condition the hair",
+            "noOfOrders": 0,
+            "availability": "Avaialable"
+        },
+        {
+            "id": 2,
+            "name": "Hair shampoo",
+            "price": 500,
+            "manufacturer": "mamaearth",
+            "description": "Hair conditioner to smoothen and condition the hair",
+            "noOfOrders": 0,
+            "availability": "Avaialable"
+        },
+        {
+            "id": 3,
+            "name": "Hair shampoo",
+            "price": 500,
+            "manufacturer": "mamaearth",
+            "description": "Hair conditioner to smoothen and condition the hair",
+            "noOfOrders": 0,
+            "availability": "Avaialable"
+        },
+        {
+            "id": 4,
+            "name": "Hair shampoo",
+            "price": 500,
+            "manufacturer": "mamaearth",
+            "description": "Hair conditioner to smoothen and condition the hair",
+            "noOfOrders": 0,
+            "availability": "Avaialable"
+        }
+    ]
+}

@@ -48,6 +48,10 @@ jobs:
         uses: azure/webapps-deploy@v2
         with:
           app-name: 'productsApp12'
+<<<<<<< HEAD
           slot-name: Dev
+=======
+          slot-name: 'Dev'
+>>>>>>> 84c638f57e9dec50dfe5d0fcf76c51a0e1601f2b
           package: '*.jar'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_28EF075CE5314191ABD76CA46166E883 }}

@@ -54,6 +54,8 @@ public class ProductsController {
 		Validator validator = factory.getValidator();
 		Set<ConstraintViolation<ProductsRequest>> violations = validator.validate(product);
 		log.debug("started payload validation" );
+		
+		
 		if(!violations.isEmpty()) {
 			throw new ConstraintViolationException(violations);
 		}

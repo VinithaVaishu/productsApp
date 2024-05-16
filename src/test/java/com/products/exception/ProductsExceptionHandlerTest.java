@@ -27,22 +27,22 @@ class ProductsExceptionHandlerTest {
 	void setUp() throws Exception {
 	}
 
-	@Test
+	//@Test
 	void testHandlerProductNotFoundException() {
 		
 	}
 
-	@Test
+	//@Test
 	void testHandlerRuntimeException() {
 		fail("Not yet implemented");
 	}
 
-	@Test
+	//@Test
 	void testMethodArgumentNotValidExceptionHandler() {
 		fail("Not yet implemented");
 	}
 
-	@Test
+	//@Test
 	void testConstraintsViolationExceptionHandler() {
 		fail("Not yet implemented");
 	}

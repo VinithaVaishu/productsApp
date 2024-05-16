@@ -44,6 +44,11 @@ public class ProductsController {
 	@Autowired
 	ProductsService productsService;
 	
+	@GetMapping
+	public String home() {
+		return "Welcome to productsApp1 application";
+	}
+	
 	public static final Logger log= LogManager.getLogger(ProductsController.class);
 	@PostMapping("/addproduct")
 	@ApiOperation(value = "Api to add project", response = ProductsResponse.class)
